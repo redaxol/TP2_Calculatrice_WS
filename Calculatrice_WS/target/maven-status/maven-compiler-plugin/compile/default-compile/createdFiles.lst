@@ -1,0 +1,3 @@
+webservice\Calculatrice_Webservice.class
+com\mycompany\calculatrice_ws\JAXRSConfiguration.class
+com\mycompany\calculatrice_ws\resources\JavaEE8Resource.class
